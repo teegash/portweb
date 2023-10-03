@@ -21,7 +21,7 @@ const Home = () => {
         {/* title */}
         <motion.h1 variants={fadeIn('down', 0.2)} initial='hidden' animate='show' exit='hidden' className='h1'>
           Digital Excellence <br/> From
-          <span className='text-accent'>Simple Ideas</span>
+          <span className='text-accent'> Simple Ideas</span>
         </motion.h1>
         {/* subtitle */}
         <motion.p variants={fadeIn('down', 0.3)} initial='hidden' animate='show' exit='hidden' className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'>
